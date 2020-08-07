@@ -1,0 +1,18 @@
+2020-08-07 09:36:45,463 WARN  [SoapUI] Missing folder [C:\Users\ARUNLawrance\Desktop\SOAP Project\my-app\ext] for external libraries
+2020-08-07 09:36:46,011 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\ARUNLawrance\soapui-settings.xml]
+2020-08-07 09:36:48,849 INFO  [WsdlProject] Loaded project from [file:/C:/Users/ARUNLawrance/Desktop/SOAP%20Project/my-app/customerCustomerRepositoryV1-soapui-project.xml]
+2020-08-07 09:36:49,566 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [customerCustomerRepositoryV1]
+2020-08-07 09:36:49,570 INFO  [SoapUITestCaseRunner] Running Project [customerCustomerRepositoryV1], runType = SEQUENTIAL
+2020-08-07 09:36:49,667 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TestCase 1]
+2020-08-07 09:36:49,697 INFO  [SoapUITestCaseRunner] running step [Properties]
+2020-08-07 09:36:49,862 INFO  [SoapUITestCaseRunner] running step [PropertyTransferAdd]
+2020-08-07 09:36:50,349 INFO  [SoapUITestCaseRunner] running step [AddCustomer]
+2020-08-07 09:36:52,033 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-08-07 09:36:52,034 INFO  [SoapUITestCaseRunner] running step [GetList]
+2020-08-07 09:36:52,629 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-08-07 09:36:52,630 INFO  [SoapUITestCaseRunner] running step [GetByID]
+2020-08-07 09:36:53,213 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-08-07 09:36:53,214 INFO  [SoapUITestCaseRunner] running step [DeleteByID]
+2020-08-07 09:36:53,836 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-08-07 09:36:53,845 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TestCase 1], time taken: 4077ms, status: FINISHED
+2020-08-07 09:36:53,846 INFO  [SoapUITestCaseRunner] Project [customerCustomerRepositoryV1] finished with status [FINISHED] in 4257ms
